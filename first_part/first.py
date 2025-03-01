@@ -1,16 +1,20 @@
 from tkinter import *
 from tkinter import messagebox, ttk
 from PIL import Image, ImageTk
+import os
+from dotenv import load_dotenv
 import mysql.connector
 
-# MySQL connection
+load_dotenv()
+
 def connect_to_db():
     return mysql.connector.connect(
         host="localhost",
-        user="root",
-        password="Adgjmerve8118.",
+        user=os.getenv("DB_USER"),
+        password=os.getenv("DB_PASSWORD"),
         database="database_project"
     )
+
 
 # Fetch movies from the database
 def fetch_movies():
