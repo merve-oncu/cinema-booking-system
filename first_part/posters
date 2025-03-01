@@ -1,0 +1,9 @@
+first_part/
+    first.py            # Python file containing the code
+    posters/            # Folder containing movie posters
+        Gladiator_II.png
+        Moana_2.png
+        The_Bell_Keeper.png
+        Here.png
+        The_Last_Breath.png
+        Wicked.png
