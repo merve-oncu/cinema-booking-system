@@ -39,8 +39,13 @@ The database contains well-structured relationships between **users, cinemas, mo
 
 Below are screenshots of the system’s **user interface**, providing a better understanding of the **user experience** and **workflow**.  
 
-‪C:\Users\MERVE\Desktop\1.jpg
-C:\Users\MERVE\Desktop\2.jpg
+## 🖥 User Interface (UI)
+
+### 🎟 User Interface
+![User Interface](images/user_interface.jpg)
+
+### 🎬 Admin Interface
+![Admin Interface](images/admin_interface.jpg)
 
 ---
 
@@ -49,7 +54,7 @@ C:\Users\MERVE\Desktop\2.jpg
 - **Merve Öncü**: [GitHub Profile](https://github.com/merve-oncu)  
 - **Dilara Tetik**: [GitHub Profile](https://github.com/dilaratetik)  
 
-Feel free to reach out if you’d like to contribute! 🚀  
+We worked together as a team, combining our skills and efforts to build this project. Every step, from planning to implementation, was a joint effort, reflecting our teamwork and dedication.
 
 ---
 
@@ -65,9 +70,3 @@ For more details, check the [LICENSE](LICENSE) file.
 If you like this project, **don’t forget to star ⭐ the repository on GitHub!**  
 
 ---
-
-## 🔹 Notes:  
-- If you want to include **images/screenshots**, upload them to your GitHub **"posters/"** folder and reference them like this:  
-
-```md
-![Movie Selection Screen](first_part/posters/movie_selection.png)
